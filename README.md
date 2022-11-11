@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 I'm Austin Frost, a third year Data Science student at the University of Oregon!
 
