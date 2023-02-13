@@ -1,6 +1,6 @@
 ### Howdy 👋
 
-I'm Austin Frost, a third year Data Science student at the University of Oregon!
+I'm Aussie Frost, a third year Data Science student at the University of Oregon!
 
 <!--
 **austinfroste/austinfroste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
