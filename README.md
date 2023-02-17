@@ -1,7 +1,7 @@
 ### Howdy 👋
 
 I'm Aussie Frost, a third year Data Science student at the University of Oregon!
-- 🌱 I currently work at UO's Computational Social Neuroscience Lab building a predictive ML model on a group dynamics study!
+- 🌱 I currently work at UO's Computational Social Neuroscience Lab building a predictive model on a group dynamics study (using fMRI)!
 - 💬 Feel free to say hi! -> aussiefrost@icloud.com
 
 <!--
