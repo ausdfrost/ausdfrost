@@ -3,7 +3,7 @@
 I'm Aussie Frost, a third year Data Science student at the University of Oregon!
 - 🌱 I currently work in Rob Chavez's *Computational Social Neuroscience Lab* building a predictive model on a [group dynamics study](https://drive.google.com/file/d/1izPhEpN1qDBnrQXxh3ieCiWiWzlfmrl1/view) (using fMRI)!
 - 🚵 Data is my main thing, but I also love going outdoors, making music, and hanging with my friends and pup 🐶!
-- 💬 Feel free to say hi! -> aussiefrost@icloud.com
+- 💬 Feel free to say hi! -> afrost6@uoregon.edu
 
 <!--
 **austinfroste/austinfroste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
