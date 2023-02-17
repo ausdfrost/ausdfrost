@@ -1,6 +1,8 @@
 ### Howdy 👋
 
-I'm Aussie Frost, a third year Data Science student at the University of Oregon!
+🧑‍💻 I'm Aussie Frost, a third year Data Science student at the University of Oregon!
+🌱 I currently work at UO's Computational Social Neuroscience Lab building a predictive ML model on a group dynamics study!
+💬 Feel free to say hi! -> aussiefrost@icloud.com
 
 <!--
 **austinfroste/austinfroste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
