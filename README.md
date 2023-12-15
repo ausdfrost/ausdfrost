@@ -1,7 +1,7 @@
 ### Howdy 👋
 
 I'm Aussie Frost, a fourth year Data Science student at the University of Oregon!
-- 🌱 I'm an alum of Rob Chavez's *Computational Social Neuroscience Lab* where I worked on a [project](https://github.com/austinfroste/round_robin_person_decoding) to predict human thought on a [group dynamics study](https://drive.google.com/file/d/1izPhEpN1qDBnrQXxh3ieCiWiWzlfmrl1/view) (using fMRI)!
+- 🌱 I'm an alum of Rob Chavez's *Computational Social Neuroscience Lab* where I built an [analysis pipeline](https://github.com/austinfroste/round_robin_person_decoding) that uses brain imaging to predict human thought on a [group dynamics study](https://drive.google.com/file/d/1izPhEpN1qDBnrQXxh3ieCiWiWzlfmrl1/view)!
 - 🚵 Data is my main thing, but I also love going outdoors, making music, and hanging with my friends and pup 🐶!
 - 💬 Feel free to say hi! -> afrost6@uoregon.edu
 
