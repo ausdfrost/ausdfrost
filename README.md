@@ -2,7 +2,7 @@
 
 I'm Aussie Frost, welcome to my GitHub!
 - 🚵 Data is my main thing, but I also love going outdoors, making music, photography, and hanging with my friends and pup 🐶!
-- 💬 Hope you like my projects, and feel free to say hi! -> [ausdfrost@gmail.com](mailto:ausdfrost@gmail.com)
+- 💬 Hope you like my projects, and feel free to say hi! --> [ausdfrost@gmail.com](mailto:ausdfrost@gmail.com)
 
 <!--
 **austinfroste/austinfroste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
