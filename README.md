@@ -1,14 +1,17 @@
 ### Howdy 👋
 
-I'm Aussie Frost, a fourth year Data Science student at the University of Oregon!
-- 🌱 I'm an alum of Rob Chavez's *Computational Social Neuroscience Lab* where I built an [analysis pipeline](https://github.com/austinfroste/round_robin_person_decoding) that uses brain imaging to predict human thought on a [group dynamics study](https://drive.google.com/file/d/1izPhEpN1qDBnrQXxh3ieCiWiWzlfmrl1/view)!
+I'm Aussie Frost, welcome to my GitHub!
 - 🚵 Data is my main thing, but I also love going outdoors, making music, photography, and hanging with my friends and pup 🐶!
-- 💬 Feel free to say hi! -> [ausdfrost@gmail.com](mailto:ausdfrost@gmail.com)
+- 💬 Hope you like my projects, and feel free to say hi! -> [ausdfrost@gmail.com](mailto:ausdfrost@gmail.com)
 
 <!--
 **austinfroste/austinfroste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
+- 🌱 I'm an alum of Rob Chavez's *Computational Social Neuroscience Lab* where I built an [analysis pipeline](https://github.com/austinfroste/round_robin_person_decoding) that uses brain imaging to predict human thought on a [group dynamics study](https://drive.google.com/file/d/1izPhEpN1qDBnrQXxh3ieCiWiWzlfmrl1/view)!
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
