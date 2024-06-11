@@ -3,7 +3,7 @@
 I'm Aussie Frost, welcome to my GitHub!
 - 🚵 Data and software engineering is my main thing, but I also love going outdoors, making music, photography, and hanging with my friends and pup 🐶!
 - 🌱 I created and published [anonymizePy](https://pypi.org/project/anonymizePy/), a package to help anyone remove personally identifying information from their data with ease.
-- 🧠 I built a whole-brain SVM classification pipeline for the Computational Social Neuroscience Lab at the University of Oregon.
+- 🧠 I built a [whole-brain SVM classification pipeline](https://github.com/ausdfrost/round_robin_person_decoding) for the Computational Social Neuroscience Lab at the University of Oregon.
 - 💬 Hope you like my projects, and feel free to say hi! --> [ausdfrost@gmail.com](mailto:ausdfrost@gmail.com)
 
 <!--
